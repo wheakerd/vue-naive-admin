@@ -21,7 +21,7 @@ Compare the feature inventory against the README to identify specific documentat
 
 ## Gap Discovery Checklist
 
-- [x] **Find documentation gaps (or skip if no discrepancies)**: Read LOOP_00001_FEATURE_INVENTORY.md and compare features in code vs README. If the feature inventory shows NO discrepancies (code and README are fully aligned), mark this task complete without creating LOOP_00001_GAPS.md. Otherwise, identify: (1) features in code but missing from README, (2) features in README but removed from code, (3) features documented inaccurately. Output findings to `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_GAPS.md`.
+- [ ] **Find documentation gaps (or skip if no discrepancies)**: Read LOOP_00001_FEATURE_INVENTORY.md and compare features in code vs README. If the feature inventory shows NO discrepancies (code and README are fully aligned), mark this task complete without creating LOOP_00001_GAPS.md. Otherwise, identify: (1) features in code but missing from README, (2) features in README but removed from code, (3) features documented inaccurately. Output findings to `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_GAPS.md`.
 
   Completed 2026-05-26: Created `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_GAPS.md` with 12 documentation gaps: 9 missing feature/documentation areas, 1 stale command-script gap, and 2 inaccurate version guidance gaps.
 

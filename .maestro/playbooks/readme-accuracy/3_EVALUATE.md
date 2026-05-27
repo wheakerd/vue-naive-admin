@@ -21,7 +21,7 @@ Evaluate each documentation gap from the discovery phase and assign importance a
 
 ## Evaluation Checklist
 
-- [x] **Evaluate gaps (or skip if empty)**: Read `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_GAPS.md`. If it contains no gaps OR all gaps have already been evaluated in `LOOP_00001_PLAN.md`, mark this task complete without changes. Otherwise, rate each gap by USER IMPORTANCE (CRITICAL/HIGH/MEDIUM/LOW) and FIX EFFORT (EASY/MEDIUM/HARD). Mark gaps with HIGH/CRITICAL importance and EASY/MEDIUM effort as PENDING for auto-fix. Output to `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_PLAN.md`.
+- [ ] **Evaluate gaps (or skip if empty)**: Read `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_GAPS.md`. If it contains no gaps OR all gaps have already been evaluated in `LOOP_00001_PLAN.md`, mark this task complete without changes. Otherwise, rate each gap by USER IMPORTANCE (CRITICAL/HIGH/MEDIUM/LOW) and FIX EFFORT (EASY/MEDIUM/HARD). Mark gaps with HIGH/CRITICAL importance and EASY/MEDIUM effort as PENDING for auto-fix. Output to `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_PLAN.md`.
 
   Completed in `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks/LOOP_00001_PLAN.md`: evaluated 12 gaps, marked 7 as `PENDING`, 4 as `PENDING - NEEDS REVIEW`, and 1 as `WON'T DO`.
 
