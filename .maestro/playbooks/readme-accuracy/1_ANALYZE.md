@@ -1,6 +1,7 @@
 # Usage Documentation Analysis - Feature Discovery
 
 ## Context
+
 - **Playbook:** Usage
 - **Agent:** vue-naive-admin
 - **Project:** D:\projects\personal\loicduong\vue-naive-admin
@@ -26,6 +27,7 @@ Survey the codebase to discover user-facing features and read the current README
 ## What to Look For in the Codebase
 
 ### User-Facing Features
+
 - **CLI commands** - Command-line arguments, subcommands, flags
 - **API endpoints** - REST routes, GraphQL queries/mutations
 - **UI components** - Major screens, dialogs, interactive elements
@@ -35,6 +37,7 @@ Survey the codebase to discover user-facing features and read the current README
 - **File formats** - Input/output file types supported
 
 ### Feature Indicators
+
 - Entry point files (main, index, app)
 - Route definitions
 - Command parsers
@@ -46,6 +49,7 @@ Survey the codebase to discover user-facing features and read the current README
 ## What to Extract from README
 
 ### Documented Features
+
 - Feature lists or bullet points
 - "Getting Started" steps
 - Command examples
@@ -55,6 +59,7 @@ Survey the codebase to discover user-facing features and read the current README
 - Changelog mentions
 
 ### README Structure
+
 - Main sections and headings
 - Installation instructions
 - Usage examples
@@ -71,39 +76,45 @@ Create/update `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks
 ## README Analysis
 
 ### README Location
+
 `D:\projects\personal\loicduong\vue-naive-admin/README.md`
 
 ### README Structure
-| Section | Description | Line Numbers |
-|---------|-------------|--------------|
-| [section name] | [what it covers] | [start-end] |
-| ... | ... | ... |
+
+| Section        | Description      | Line Numbers |
+| -------------- | ---------------- | ------------ |
+| [section name] | [what it covers] | [start-end]  |
+| ...            | ...              | ...          |
 
 ### Features Documented in README
-| Feature | Section | Description in README |
-|---------|---------|----------------------|
-| [feature name] | [section] | [how it's described] |
-| ... | ... | ... |
+
+| Feature        | Section   | Description in README |
+| -------------- | --------- | --------------------- |
+| [feature name] | [section] | [how it's described]  |
+| ...            | ...       | ...                   |
 
 ---
 
 ## Codebase Analysis
 
 ### Project Type
+
 - **Language/Framework:** [e.g., TypeScript/React, Python/FastAPI]
 - **Application Type:** [CLI, Web App, Desktop App, Library, etc.]
 
 ### Features Found in Code
-| Feature | Location | Type | User-Facing? |
-|---------|----------|------|--------------|
-| [feature name] | [file/module] | [CLI/API/UI/Config] | Yes/No |
-| ... | ... | ... | ... |
+
+| Feature        | Location      | Type                | User-Facing? |
+| -------------- | ------------- | ------------------- | ------------ |
+| [feature name] | [file/module] | [CLI/API/UI/Config] | Yes/No       |
+| ...            | ...           | ...                 | ...          |
 
 ---
 
 ## Feature Summary
 
 ### Totals
+
 - **Features in README:** [count]
 - **Features in Code:** [count]
 - **Potential Gaps:** [count] (code features not in README)
@@ -112,14 +123,17 @@ Create/update `D:\projects\personal\loicduong\vue-naive-admin/.maestro/playbooks
 ### Quick Classification
 
 #### Likely Undocumented (in code, not in README)
+
 1. [feature] - [brief description]
 2. ...
 
 #### Possibly Stale (in README, not found in code)
+
 1. [feature] - [what README says]
 2. ...
 
 #### Confirmed Documented (in both)
+
 1. [feature] - [status: accurate / needs update]
 2. ...
 ```
