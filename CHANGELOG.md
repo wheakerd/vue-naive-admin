@@ -627,5 +627,5 @@
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
 
 [![loicduong](https://github.com/loicduong.png?size=48)](https://github.com/loicduong)&nbsp;&nbsp;
-[loicduong](mailto:mikhailcolt@gmail.com),&nbsp;[locdp](mailto:locdp@suga.com.vn),&nbsp;
+[loicduong](mailto:mikhailcolt@gmail.com)&nbsp;
 
