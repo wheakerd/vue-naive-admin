@@ -102,7 +102,7 @@
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
 
 
-[loicduong](mailto:mikhailcolt@gmail.com),&nbsp;[locdp](mailto:locdp@teanis.vn)
+[loicduong](mailto:mikhailcolt@gmail.com)
 
 ## [v0.1.2](https://github.com/dploc96/vue-naive-admin/compare/v0.1.1...v0.1.2) (2025-05-06)
 
